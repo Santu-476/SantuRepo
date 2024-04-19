@@ -1,0 +1,9 @@
+{
+	"name": "Sriram-ADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7f31bef9-f5c9-4b29-ba4b-81f15e07a74b",
+		"tenantId": "76e6ba7e-a4d4-4c3e-83fb-489e900d52a7"
+	}
+}
